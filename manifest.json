@@ -1,0 +1,11 @@
+{
+  "hardware_revision": "A1",
+  "esp32": {
+    "version": "1.00",
+    "url": "https://vincentngo12.github.io/DriftGolf-OTA-mirror/binaries/esp32_v1_00.bin"
+  },
+  "msp430": {
+    "version": "1.00",
+    "url": "https://vincentngo12.github.io/DriftGolf-OTA-mirror/binaries/msp430_v1_00.txt"
+  }
+}
